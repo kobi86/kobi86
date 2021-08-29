@@ -1,10 +1,7 @@
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Kobi Gershon</h1>
 <h3 align="left">I am a DevOps at Redhat </h3>
 
-
-<a href="#kobi86-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=kobi86&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kobi86&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Kobi Gershon" align="right" />
 
 - :office: &nbsp;I'm currently working at **Redhat**
 - :seedling: &nbsp;I’m currently learning **Go**
