@@ -33,7 +33,6 @@
     </td>
     <td align="center" width="96">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
       <br>Bash
     </td>
     <td align="center" width="96">
