@@ -1,16 +1,64 @@
-### Hi there 👋
+<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Kobi Gershon</h1>
+<h3 align="left">I am a DevOps at Redhat </h3>
 
-<!--
-**kobi86/kobi86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="#kobi86-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=kobi86&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :office: &nbsp;I'm currently working at **Redhat**
+- :seedling: &nbsp;I’m currently learning **Go**
+- :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+
+<br>
+
+<h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="http://blog.devops4me.com/content/images/size/w600/2020/08/Microsoft-Azure-DevOps.png" width="48" height="48" alt="Azure" />
+      <br>Azure DevOps
+    </td>
+    <td align="center" width="96">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      <br>Git
+  </tr>
+    <td align="center" width="96">
+    <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="48" height="48" alt="Bash" />
+      <br>Go
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" width="48" height="48" alt="Bash" />
+      <br>OpenShift
+    </td>
+    <td align="center" width="96">
+        <img src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" width="48" height="48" alt="Bash" />
+      <br>jenkins
+    </td>
+</table>
+<!-- links -->
+
+
+
+[linkedin]: https://www.linkedin.com/in/kobi-gershon/ "Kobi gershon LinkedIn"
