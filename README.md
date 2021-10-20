@@ -35,6 +35,10 @@
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
+    <td align="center" width="96">
+        <img src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" width="48" height="48" alt="Bash" />
+      <br>jenkins
+    </td>
   </tr>
     <td align="center" width="96">
     <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
@@ -49,9 +53,14 @@
       <br>OpenShift
     </td>
     <td align="center" width="96">
-        <img src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" width="48" height="48" alt="Bash" />
-      <br>jenkins
+        <img src="https://avatars.githubusercontent.com/u/18700703?s=280&v=4" width="48" height="48" alt="Bash" />
+      <br>Kubevirt
     </td>
+    <td align="center" width="96">
+        <img src="https://kubernetes.io/images/favicon.png" width="48" height="48" alt="Bash" />
+      <br>K8S
+    </td>
+
 </table>
 <!-- links -->
 
