@@ -1,5 +1,5 @@
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Kobi Gershon</h1>
-<h3 align="left">I am a DevOps at Redhat </h3>
+<h3 align="left">DevOps at Redhat </h3>
 
   <img src="https://github-readme-stats.vercel.app/api?username=kobi86&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Kobi Gershon" align="right" />
 
