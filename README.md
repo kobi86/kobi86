@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kobi86&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Kobi Gershon" align="right" />
 
 - :office: &nbsp;I'm currently working at **Thetaray**
-- :seedling: &nbsp;I’m currently learning **Go**
+- :seedling: &nbsp;I’m currently learning **Secuirty**
 - :speech_balloon: &nbsp;I like to talk about **Cloud** and **K8S**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
